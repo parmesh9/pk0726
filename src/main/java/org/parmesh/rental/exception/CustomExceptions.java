@@ -21,6 +21,5 @@ public class CustomExceptions extends RuntimeException {
         super(new CustomExceptions());
     }
 
-    public CustomExceptions(ErrorCode errorCode) {
-    }
+
 }
